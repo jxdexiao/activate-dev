@@ -17,8 +17,8 @@ Create a .env file in the root directory of your project and add the required en
 Example .env file:
 ```
 DISCORD_TOKEN=YOUR_BOT_TOKEN
-Make sure to replace YOUR_BOT_TOKEN with your actual Discord bot token.
 ```
+Make sure to replace YOUR_BOT_TOKEN with your actual Discord bot token.
 
 🚀 Run the Bot
 ``` After setting up your .env file, run the bot with the following command:
