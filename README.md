@@ -29,3 +29,9 @@ python bot.py
 !help — Display available commands
 /activate_dev — Enable the Developer badge
 ```
+
+🎓 Developer Badge Conditions
+To receive the Developer badge on Discord, you need to meet the eligibility criteria set by Discord. These conditions are typically based on having created a bot or an application that is actively used by others.
+
+For detailed information about the conditions and how to get the badge, check out the official Discord documentation:
+(Discord Developer Badge Explanation)[https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge]
