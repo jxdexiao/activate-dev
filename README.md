@@ -13,9 +13,9 @@ pip install -r requirements.txt
 ```
 
 ⚙️ Set Up .env
-``` Create a .env file in the root directory of your project and add the required environment variables, such as your Discord bot token.
-
+Create a .env file in the root directory of your project and add the required environment variables, such as your Discord bot token.
 Example .env file:
+```
 DISCORD_TOKEN=YOUR_BOT_TOKEN
 Make sure to replace YOUR_BOT_TOKEN with your actual Discord bot token.
 ```
